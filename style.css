@@ -1,0 +1,32 @@
+.heading
+{
+    width:100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+.heading button{
+    border:1px solid white;
+    float: right;
+}
+#copyrightfooter
+{
+    background-color: rgb(150, 219, 21);
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    line-height: 2;
+    text-align: center;
+    color: white;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+}
+canvas
+{
+    border: 5px ridge pink;
+    border-radius: 10px;
+    top: 600px;
+    left:0px;
+}
